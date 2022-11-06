@@ -1,4 +1,4 @@
-# Write your solution here
+
 phoneBook = {}
 while True:
     a = int(input("command (1 search, 2 add, 3 quit):" ))
